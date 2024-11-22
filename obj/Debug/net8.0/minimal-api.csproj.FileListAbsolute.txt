@@ -98,3 +98,8 @@ D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Wo
 D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Estudos\cursos\.net\minimal-api\obj\Debug\net8.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
+D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Estudos\cursos\.net\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
