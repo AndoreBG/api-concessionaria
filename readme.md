@@ -30,6 +30,3 @@
 ## Redes Sociais
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/andregorzoni)
-
-## Diagrama
-![](https://github.com/AndoreBG/minimal-api/blob/main/diagrama.svg)
