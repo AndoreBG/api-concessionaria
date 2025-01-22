@@ -1,4 +1,6 @@
-## Funcionalidades Principais
+# API de uma Concessionária ![Static Badge](https://img.shields.io/badge/status-%20finalizado-green)
+
+### Funcionalidades Principais
 
  - **Rotas Simples**: Permite a definição de rotas básicas para manipulação
    de requisições HTTP.
